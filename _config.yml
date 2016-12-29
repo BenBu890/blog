@@ -26,7 +26,7 @@ github_username:  benbu890
 
 # Build settings
 markdown: kramdown
-theme: Dinky
+theme: Minimal
 gems:
   - jekyll-feed
 exclude:
